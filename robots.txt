@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salinasplumbingco.com/sitemap.xml
